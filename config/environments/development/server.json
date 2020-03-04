@@ -1,0 +1,16 @@
+{
+  "host": "localhost",
+  "port": 1337,
+  "proxy": {
+    "enabled": true,
+    "ssl": true,
+    "host": "fapiexeg.com",
+    "port": 443
+  },
+  "cron": {
+    "enabled": false
+  },
+  "admin": {
+    "path": "/dashboard"
+  }
+}
